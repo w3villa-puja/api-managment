@@ -1,5 +1,5 @@
 import './App.css';
-import Registration from './Component/Registration';
+import Registration from './Component/SignUp/Registration';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 function App() {
   return (
