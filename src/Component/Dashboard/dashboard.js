@@ -1,6 +1,6 @@
 import React from 'react'
 
-function otpverify() {
+function dashboard() {
   return (
     <div>
       <section
@@ -27,7 +27,7 @@ function otpverify() {
                     className="form-control form-control-lg"
                   />
                   <label className="form-label" htmlFor="form3Example3cg">
-                    Your Email
+                    Your Emailwefreweddedwqeffwqre
                   </label>
                 </div>
                 <div className="form-outline mb-4">
@@ -61,4 +61,4 @@ function otpverify() {
   )
 }
 
-export default otpverify
+export default dashboard
